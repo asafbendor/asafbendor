@@ -1,4 +1,6 @@
-### Hi there 👋
+###  Hi there! Wealcome to my profile 👋 :grinning:
+___
+ ![](https://komarev.com/ghpvc/?username=asafbendor)
 
 <!--
 **asafbendor/asafbendor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
