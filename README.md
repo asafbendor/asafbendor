@@ -1,4 +1,4 @@
-###  Hi there! Wealcome to my profile 👋 :grinning:
+###  Hi there! Welcome to my profile 👋 :grinning:
 ___
  ![](https://komarev.com/ghpvc/?username=asafbendor)
 
