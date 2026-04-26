@@ -18,7 +18,7 @@ AI Lecturer | Digital Communications Strategist | Builder of Things
     <img src="https://img.shields.io/badge/%D7%A7%D7%A4%D7%A1%D7%95%D7%9C%D7%AA%20%D7%96%D7%9E%D7%9F%20%D7%90%D7%99%D7%A9%D7%99%D7%AA-6C3483?style=for-the-badge&logo=rocket&logoColor=white" height="100">
   </a>
 
-  <br><br>
+  <br>
 
   <a href="https://goai.co.il" target="_blank">
     <img src="https://img.shields.io/badge/OFFSIDE-1E8449?style=for-the-badge&logo=football&logoColor=white" height="100">
@@ -33,6 +33,3 @@ AI Lecturer | Digital Communications Strategist | Builder of Things
   </a>
 
 </div>
-___
- ![](https://komarev.com/ghpvc/?username=asafbendor)
-
