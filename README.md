@@ -3,15 +3,6 @@ AI Lecturer | Digital Communications Strategist | Builder of Things
 
 אני מאמין שבינה מלאכותית היא לא רק קוד - היא גשר שמאפשר לכולם ליצור, ללמוד ולהתחבר. הפרופיל שלי כאן הוא המעבדה שבה אני משלב בין כלי AI מתקדמים, פיתוח No-code והנגשה טכנולוגית.
 
-🛠️ מה אני בונה בימים אלו?
-SecondGuess (התו השני) - משחק טריוויה מוזיקלי ויראלי שפותח באמצעות Claude Code.
-
-Bina Bachayim (בינה בחיים) - פלטפורמה וקהילה להוראת יסודות ה-AI לבני הגיל השלישי.
-
-Hi46.me - קפסולת זמן דיגיטלית ששולחת מסרים לעתיד (2046).
-
-AI Agents - אוטומציות מורכבות המבוססות על Make.com ו-API של Gemini ו-OpenAI.
-
 ### 🌟 Featured Projects
 
 [![SecondGuess](https://img.shields.io/badge/התו_השנייה-FF5733?style=for-the-badge&logo=itunes&logoColor=white)](https://songuess.app/)
