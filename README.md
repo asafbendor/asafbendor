@@ -1,7 +1,6 @@
 Hi there! I'm Asaf Bendor 🚀
 AI Lecturer | Digital Communications Strategist | Builder of Things
 
-אני מאמין שבינה מלאכותית היא לא רק קוד - היא גשר שמאפשר לכולם ליצור, ללמוד ולהתחבר. הפרופיל שלי כאן הוא המעבדה שבה אני משלב בין כלי AI מתקדמים, פיתוח No-code והנגשה טכנולוגית.
 
 ### 🌟 Featured Projects (Enhanced View)
 <div align="center">
