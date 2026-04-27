@@ -2,7 +2,7 @@ Hi there! I'm Asaf Bendor 🚀
 AI Lecturer | Digital Communications Strategist | Builder of Things
 
 
-### 🌟 Featured Projects (Enhanced View)
+### 🌟 Featured Projects 
 <div align="center">
 <div align="right">
 
@@ -10,7 +10,7 @@ AI Lecturer | Digital Communications Strategist | Builder of Things
     <img src="https://img.shields.io/badge/%F0%9F%8E%B5%20%D7%AA%D7%95%20%D7%94%D7%A9%D7%A0%D7%99%D7%99%D7%94-FF5733?style=for-the-badge" height="65">
   </a>
 
-  <a href="https://goai.co.il/bina-bachayim/">
+  <a href="https://goai.co.il/bina/">
     <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20%D7%91%D7%99%D7%A0%D7%94%20%D7%91%D7%97%D7%99%D7%99%D7%9D-2E86C1?style=for-the-badge" height="65">
   </a>
 
