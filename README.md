@@ -70,16 +70,17 @@ The full portfolio, straight from [goai.co.il/projects](https://www.goai.co.il).
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asafbendor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Asaf Bendor GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asafbendor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asafbendor&theme=tokyonight" alt="GitHub stats" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asafbendor&theme=tokyonight" alt="Top languages by commit" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=asafbendor&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="200em" src="https://streak-stats.demolab.com?user=asafbendor&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asafbendor&theme=tokyonight&utcOffset=3" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asafbendor&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asafbendor&theme=tokyonight" alt="Contribution activity" />
 </p>
 
 ---
