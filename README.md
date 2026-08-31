@@ -70,16 +70,6 @@ The full portfolio, straight from [goai.co.il/projects](https://www.goai.co.il).
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asafbendor&theme=tokyonight" alt="GitHub stats" />
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asafbendor&theme=tokyonight" alt="Top languages by commit" />
-</p>
-
-<p align="center">
-  <img height="200em" src="https://streak-stats.demolab.com?user=asafbendor&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asafbendor&theme=tokyonight&utcOffset=3" alt="Productive time" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asafbendor&theme=tokyonight" alt="Contribution activity" />
 </p>
 
